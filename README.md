@@ -6,5 +6,6 @@
 
 
 ### project source codes
-[breakout game](
+[breakout game](https://github.com/PLChen1/sc-project/commit/5cfa0301474dfcd7f4b92a23cc2858916f32d555)
+ python semantics and syntax
 
